@@ -1,10 +1,13 @@
 # Modi Shih
 
-TODO: write a short desc about myself
+Hi, this is Modi Shih. I'm a software developer, independent researcher working on natural language processing 
+projects and an educator.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m willing to collaborate on ...
+I have experience in working with a cross-domain team and delivered backend applications in a short amount of time. I have an obsession over meeting end user’s expectations and thrives to polish my product to achieve efficiency, reliability, as well as maintainability.
+
+- 🔭 I’m currently working on my master thesis - augmenting large language model with self-reflection mechanism.
+- 🌱 I’m currently learning Go lang and building scalable backend applications.
+- 👯 I’m willing to collaborate on various backend, NLP projects.
 - 📫 How to reach me: 8igmac@pm.me
 
 <a href="https://www.linkedin.com/in/modi-shih/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
