@@ -24,4 +24,4 @@ I have experience in working with a cross-domain team and delivered backend appl
                     
 <br><br>
 
-![Modi's GitHub stats](https://github-readme-stats.vercel.app/api?username=8igMac&theme=moltack&show_icons=true)
+<!-- ![Modi's GitHub stats](https://github-readme-stats.vercel.app/api?username=8igMac&theme=moltack&show_icons=true) -->
