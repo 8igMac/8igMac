@@ -8,10 +8,11 @@ I have experience in working with a cross-domain team and delivered backend appl
 - 🔭 I’m currently working on my master thesis - augmenting large language model with self-reflection mechanism.
 - 🌱 I’m currently learning Go lang and building scalable backend applications.
 - 👯 I’m willing to collaborate on various backend, NLP projects.
+- 📚 [My blog](https://8igmac.github.io/devblog/)
 - 📫 How to reach me: 8igmac@pm.me
 
 <a href="https://www.linkedin.com/in/modi-shih/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://medium.com/@8igmac"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<!-- <a href="https://medium.com/@8igmac"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> -->
 
 ### Languages and tools
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
